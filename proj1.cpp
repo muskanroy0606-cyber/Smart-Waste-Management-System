@@ -2,7 +2,7 @@
 #include <vector> 
 #include <iomanip>
 #include <fstream>     
-using namespace std;
+using namespace std; 
 
 // Abstract Base Class
 class Waste {
