@@ -3,7 +3,7 @@
 #include <iomanip>    
 #include <fstream>      
 using namespace std;  
-
+ 
 // Abstract Base Class
 class Waste {
 protected:
